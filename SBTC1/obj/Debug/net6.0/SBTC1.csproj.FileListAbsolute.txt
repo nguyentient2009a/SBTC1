@@ -1,0 +1,8 @@
+C:\Users\MY PC\source\repos\SBTC1\SBTC1\obj\Debug\net6.0\SBTC1.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\SBTC1\SBTC1\obj\Debug\net6.0\SBTC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\source\repos\SBTC1\SBTC1\obj\Debug\net6.0\SBTC1.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\SBTC1\SBTC1\obj\Debug\net6.0\SBTC1.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\SBTC1\SBTC1\obj\Debug\net6.0\SBTC1.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\SBTC1\SBTC1\obj\Debug\net6.0\SBTC1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MY PC\source\repos\SBTC1\SBTC1\obj\Debug\net6.0\SBTC1.RazorAssemblyInfo.cache
+C:\Users\MY PC\source\repos\SBTC1\SBTC1\obj\Debug\net6.0\SBTC1.RazorAssemblyInfo.cs
